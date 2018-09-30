@@ -1,3 +1,4 @@
-$ git config --global user.name "yunchengpeng"
+$ git config --global user.name "yunchengpeng666"
 $ git config --global user.email "18019118838@163.com"
-insert into
+insert into 
+merge into
