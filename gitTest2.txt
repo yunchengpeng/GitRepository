@@ -1,3 +1,0 @@
-git test
-delete
-check out
